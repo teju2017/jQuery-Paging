@@ -2,7 +2,7 @@
  * @license jQuery paging plugin v1.2.0 23/06/2014
  * http://www.xarg.org/2011/09/jquery-pagination-revised/
  *
- * Copyright (c) 2011, Robert Eisele (robert@xarg.org)
+ * Copyright (c) 2011 comment file, Robert Eisele (robert@xarg.org)
  * Dual licensed under the MIT or GPL Version 2 licenses.
  **/
 
